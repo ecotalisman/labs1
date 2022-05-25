@@ -1,0 +1,15 @@
+#main-title > .title {
+    text-decoration-line: underline;
+    text-align: center;
+  }
+  
+  .simple-text {
+    color: rgb(12, 185, 197);
+  }
+  
+  img {
+    border: 1px solid #ddd;
+    border-radius: 25%;
+    width: 500px;
+    padding: 5px;
+  }
